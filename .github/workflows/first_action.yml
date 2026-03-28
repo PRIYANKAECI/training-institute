@@ -7,5 +7,5 @@ jobs:
   steps:
     -name: Print greeting
      run: echo "hello 1"
-    -name: Greet hello
-     run:  echo "heelo2"
+    -name: Print bye
+     run: echo "heelo2"
